@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImaniBahati
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on my project 
+- 👀 I’m interested in AI 
+- 🌱 I’m currently learning it 
+- 💞️ I’m looking to collaborate on my first project in AI
 - 📫 How to reach me ? i'm available at LinkedIn, Twitter, ...
 
 <!---
