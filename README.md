@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ImaniBahati
-- 👀 I’m interested in AI 
-- 🌱 I’m currently learning it 
-- 💞️ I’m looking to collaborate on my first project in AI
-- 📫 How to reach me ? i'm available at LinkedIn, Twitter, ...
+- 👀 I’m interested in AI and Backend with Python
+- 🌱 I’m currently learning Django and JavaScript
+- 💞️ I’m looking to collaborate on open source
+- 📫 How to reach me ? i'm available at imanibahati0@gmail.com,LinkedIn, Twitter, ...
 
 <!---
 ImaniBahati/ImaniBahati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
