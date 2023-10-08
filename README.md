@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImaniBahati
 - 👀 I’m interested in AI and Backend with Python
-- 🌱 I’m currently learning Django and JavaScript
+- 🌱 I’m currently learning Django and Data Science 
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me ? i'm available at imanibahati0@gmail.com,LinkedIn, Twitter, ...
 
